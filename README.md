@@ -78,7 +78,7 @@ class LinkedList:
  
     # Remover determinado elemento - não terminado
     def removeElemento(self):
-        print("Você é trouxa")
+        print("teste")
 
     # Item inserido na primeira posição - ajustar
     def insereNoComeco(self, elemento):
